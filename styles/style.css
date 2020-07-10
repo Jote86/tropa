@@ -1,0 +1,32 @@
+html {
+  font-size: 10px; /* px quiere decir 'píxeles': el tamaño de la fuente base es ahora de 10 píxeles de altura */
+  font-family: 'Varela Round', sans-serif; /* Este debe ser el resto del resultado que obtuviste de Google fonts */
+  background-color: #9bd0f3;
+}
+body {
+  width: 700px;
+  margin: 0 auto;
+  background-color: #6fa9ec;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+}
+h1 {
+  font-size: 70px;
+  text-align: center;
+  margin: 0;
+  padding: 20px 0;
+  color: #144879;
+  text-shadow: 4px 4px 4px black;
+}
+p, li {
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1px;
+}
+img {
+  width: 500px;
+  display: block;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  margin-left: 100px;
+}
